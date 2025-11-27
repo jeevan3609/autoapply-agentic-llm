@@ -1,0 +1,4 @@
+We are seeking a Data Analyst Intern.
+Responsibilities: data cleaning, analysis, dashboards.
+Required: SQL, Python, Tableau/Power BI.
+Nice: ML basics, statistics.

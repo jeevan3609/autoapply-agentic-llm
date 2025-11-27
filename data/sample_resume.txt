@@ -1,0 +1,9 @@
+Jeevan Hemanth Yendluri
+Data Science Graduate Student, Pace University
+
+EXPERIENCE
+- Data Science Intern (Universal Therapeutics)
+- Data Analytics Intern (Tech Mahindra)
+
+SKILLS
+Python, SQL, ML, Pandas, Tableau, Power BI, AWS.
